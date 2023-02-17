@@ -14,6 +14,7 @@
 		85FEBC12299E79690012AF1B /* Little_LemonTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85FEBC11299E79690012AF1B /* Little_LemonTests.swift */; };
 		85FEBC1C299E79690012AF1B /* Little_LemonUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85FEBC1B299E79690012AF1B /* Little_LemonUITests.swift */; };
 		85FEBC1E299E79690012AF1B /* Little_LemonUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85FEBC1D299E79690012AF1B /* Little_LemonUITestsLaunchTests.swift */; };
+		85FEBC2B299E7CF20012AF1B /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85FEBC2A299E7CF20012AF1B /* MainView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		85FEBC17299E79690012AF1B /* Little LemonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Little LemonUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		85FEBC1B299E79690012AF1B /* Little_LemonUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Little_LemonUITests.swift; sourceTree = "<group>"; };
 		85FEBC1D299E79690012AF1B /* Little_LemonUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Little_LemonUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		85FEBC2A299E7CF20012AF1B /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				85FEBC02299E79650012AF1B /* ContentView.swift */,
 				85FEBC04299E79690012AF1B /* Assets.xcassets */,
 				85FEBC06299E79690012AF1B /* Preview Content */,
+				85FEBC2A299E7CF20012AF1B /* MainView.swift */,
 			);
 			path = "Little Lemon";
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				85FEBC03299E79650012AF1B /* ContentView.swift in Sources */,
+				85FEBC2B299E7CF20012AF1B /* MainView.swift in Sources */,
 				85FEBC01299E79650012AF1B /* Little_LemonApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
